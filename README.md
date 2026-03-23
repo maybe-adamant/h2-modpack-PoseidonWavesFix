@@ -1,11 +1,11 @@
 # Poseidon Waves Fix
 
-> A bug fix that ensures Poseidon's "Wave Train" boon correctly triggers on all intended weapon abilities.
+> A bug fix that ensures Poseidon Waves correctly triggers on all intended weapon abilities.
 
 ## Features
 
-- Fixes a bug where Poseidon's wave effect would not trigger on the Axe's special attack.
-- Fixes a bug where the wave effect would not trigger correctly on the secret aspect of the Torch.
+- Fixes a bug where Poseidon's wave effect would not trigger correctly on the Axe's special attack.
+- Fixes a bug where the wave effect would not trigger correctly on the Torch with the Hidden Helix hammer.
 
 ## Installation
 
