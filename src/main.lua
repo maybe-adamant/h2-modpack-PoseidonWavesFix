@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes Poseidon waves on Axe special and Hidden Helix Torch.",
     default  = true,
     dataMutation = true,
-    modpack = "h2-modpack",
+    modpack = "speedrun",
 }
 
 -- =============================================================================
